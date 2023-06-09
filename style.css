@@ -1,0 +1,27 @@
+body{
+    background: rgb(7,36,0);
+/* background: linear-gradient(90deg, rgba(7,36,0,1) 0%, rgba(9,102,121,1) 35%, rgba(255,175,0,1) 100%); */
+
+background:url(../HTML_CSS_BASIC/img/tabiat.jpg) ;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: fixed;
+color: white;
+} 
+
+
+h1{
+
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+div{
+    text-align:center
+}
+a{text-align: center;
+    color: #eae7e8;
+}
